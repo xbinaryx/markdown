@@ -4,7 +4,7 @@
   "exports": "./dist/esm/index.js",
   "publish": {
     "include": [
-      "dist",
+      "dist", 
       "README.md",
       "jsr.json",
       "LICENSE"
